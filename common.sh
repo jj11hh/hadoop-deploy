@@ -1,0 +1,18 @@
+export MASTER_IP="10.0.2.101"
+export SLAVE1_IP="10.0.2.102"
+export SLAVE2_IP="10.0.2.103"
+export REPO_IP="10.0.2.100"
+export MASTER_PASSWD="rootpassword"
+export SLAVE1_PASSWD="rootpassword"
+export SLAVE2_PASSWD="rootpassword"
+
+
+export JAVA_TAR="jdk-8u171-linux-x64.tar.gz"
+export ZK_TAR="zookeeper-3.4.10.tar.gz"
+export HADOOP_TAR="hadoop-2.7.3.tar.gz"
+export HBASE_TAR="hbase-1.2.4-bin.tar.gz"
+export HIVE_TAR="apache-hive-2.1.1-bin.tar.gz"
+export SCALA_TAR="scala-2.11.12.tgz"
+export SPARK_TAR="spark-2.4.0-bin-hadoop2.7.tgz"
+export MYSQL_CONN_JAR="mysql-connector-java-5.1.47-bin.jar"
+export ZK_DIR="/usr/zookeeper/zookeeper-3.4.10"
